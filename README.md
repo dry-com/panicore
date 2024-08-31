@@ -8,6 +8,7 @@ Welcome to **PaniCore**! This powerful Telegram bot is designed to help you easi
 ---
 
 ### 📌 Key Features
+![image](https://github.com/user-attachments/assets/5b350d1d-594a-481a-9950-56e9ddb9e5ed)
 
 #### 1. **Multi-Chain Balance Tracking**
    - The bot supports a wide range of EVM-compatible blockchains, including but not limited to:
