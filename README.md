@@ -1,3 +1,8 @@
+
+# @panicorebot - https://t.me/panicorebot
+
+---
+
 ![image](https://github.com/user-attachments/assets/71054027-12af-428f-9d8d-2f621f0e9887)
 
 
